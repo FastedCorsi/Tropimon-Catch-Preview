@@ -1,0 +1,15 @@
+.gradle/
+build/
+run/
+logs/
+config/
+configs/
+saves/
+screenshots/
+crash-reports/
+sessions/
+.env*
+*.log
+*.jks
+*.p12
+*.pem

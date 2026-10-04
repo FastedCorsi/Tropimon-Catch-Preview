@@ -1,0 +1,19 @@
+{
+  "key.tropimon_catch_preview.close": "Fermer l'aperçu de capture",
+  "category.tropimon_catch_preview": "Tropimon Catch Preview",
+  "gui.tropimon_catch_preview.title": "CAPTURE",
+  "gui.tropimon_catch_preview.level": "Niv. %s",
+  "gui.tropimon_catch_preview.alpha": "Alpha",
+  "gui.tropimon_catch_preview.size": "Taille %s",
+  "gui.tropimon_catch_preview.nature": "Nature",
+  "gui.tropimon_catch_preview.ability": "Talent",
+  "gui.tropimon_catch_preview.no_marks": "Aucun insigne",
+  "gui.tropimon_catch_preview.release_short": "REL",
+  "gui.tropimon_catch_preview.release_confirm_short": "OK ?",
+  "gui.tropimon_catch_preview.iv.hp": "PV",
+  "gui.tropimon_catch_preview.iv.attack": "Atq",
+  "gui.tropimon_catch_preview.iv.defence": "Déf",
+  "gui.tropimon_catch_preview.iv.special_attack": "SpA",
+  "gui.tropimon_catch_preview.iv.special_defence": "SpD",
+  "gui.tropimon_catch_preview.iv.speed": "Vit"
+}

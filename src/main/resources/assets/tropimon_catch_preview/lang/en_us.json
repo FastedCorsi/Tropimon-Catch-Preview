@@ -1,0 +1,19 @@
+{
+  "key.tropimon_catch_preview.close": "Close catch preview",
+  "category.tropimon_catch_preview": "Tropimon Catch Preview",
+  "gui.tropimon_catch_preview.title": "CAUGHT",
+  "gui.tropimon_catch_preview.level": "Lv. %s",
+  "gui.tropimon_catch_preview.alpha": "Alpha",
+  "gui.tropimon_catch_preview.size": "Size %s",
+  "gui.tropimon_catch_preview.nature": "Nature",
+  "gui.tropimon_catch_preview.ability": "Ability",
+  "gui.tropimon_catch_preview.no_marks": "No marks",
+  "gui.tropimon_catch_preview.release_short": "DEL",
+  "gui.tropimon_catch_preview.release_confirm_short": "OK?",
+  "gui.tropimon_catch_preview.iv.hp": "HP",
+  "gui.tropimon_catch_preview.iv.attack": "Atk",
+  "gui.tropimon_catch_preview.iv.defence": "Def",
+  "gui.tropimon_catch_preview.iv.special_attack": "SpA",
+  "gui.tropimon_catch_preview.iv.special_defence": "SpD",
+  "gui.tropimon_catch_preview.iv.speed": "Spe"
+}

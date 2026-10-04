@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "tropimon_catch_preview",
+  "version": "${version}",
+  "name": "Tropimon Catch Preview",
+  "description": "Affiche les informations du dernier Pokémon capturé sans interrompre le jeu.",
+  "authors": ["By FastedCorsi"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["fr.tropimon.catchpreview.TropimonCatchPreviewClient"]
+  },
+  "mixins": ["tropimon_catch_preview.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": "1.21.1",
+    "fabric-api": ">=0.116.6+1.21.1",
+    "cobblemon": ">=1.8.0",
+    "java": ">=21"
+  }
+}

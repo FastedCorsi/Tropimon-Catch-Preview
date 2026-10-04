@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "fr.tropimon.catchpreview.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPartyMixin",
+    "MarkTextAccessor",
+    "ClientPCMixin",
+    "StorageTransferMixin",
+    "TradeUpdatedHandlerMixin",
+    "SetPCBoxHandlerMixin",
+    "StorageManagerMixin",
+    "InitializePCHandlerMixin",
+    "MouseMixin",
+    "PreviewHudLayerMixin",
+    "OpenPCHandlerMixin",
+    "SetPartyReferenceHandlerMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
